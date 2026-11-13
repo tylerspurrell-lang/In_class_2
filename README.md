@@ -11,3 +11,5 @@ This can be used for certain scanning effects, take among us scan for example, w
 Screenshots 
 
 https://github.com/tylerspurrell-lang/In_class_2/blob/main/Screenshot%202026-11-12%20205720.png
+https://github.com/tylerspurrell-lang/In_class_2/blob/main/Screenshot%202026-11-12%20205725.png
+
