@@ -8,3 +8,6 @@ Anyway I added a flicker effect, that is supposed to make the hologram effect fl
 
 This can be used for certain scanning effects, take among us scan for example, which scans the player and at the end flickers 3 times, I tried to replicate that effect in a simpler way. 
 
+Screenshots 
+
+https://github.com/tylerspurrell-lang/In_class_2/blob/main/Screenshot%202026-11-12%20205720.png
